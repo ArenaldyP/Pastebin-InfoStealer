@@ -81,9 +81,9 @@ def format_system_info(system_info, network_info):
 
 
 def plain_paste(title, contents):
-    username = "K1ngp1ng"  # Username akun Pastebin
-    password = "WARRIOR2022!"  # Password akun Pastebin
-    api_dev_key = "8eplY23yzLKJyV8849vFEniFo8eEnr9H"  # API dev key dari Pastebin
+    username = "Username"  # Username akun Pastebin
+    password = "Password"  # Password akun Pastebin
+    api_dev_key = "API dev key"  # API dev key dari Pastebin
 
     login_url = "https://pastebin.com/api/api_login.php"
     login_data = {
