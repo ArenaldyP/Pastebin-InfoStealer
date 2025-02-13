@@ -5,6 +5,7 @@ Script ini digunakan untuk mengumpulkan informasi sistem secara mendalam serta m
 
 ## 🛠️ Fitur Utama
 - **Informasi Sistem**: Host Name, OS Name, OS Version, BIOS, Processor, RAM, Virtual Memory, dll.
+- **Encoding**: Obfuscate Content dengan Base64
 - **Monitoring Keamanan**:
   - Deteksi proses mencurigakan
   - Cek file startup (AutoRun programs)
@@ -21,23 +22,18 @@ Script ini digunakan untuk mengumpulkan informasi sistem secara mendalam serta m
 ## 📥 Instalasi
 1. **Clone Repository**:
    ```sh
-   git clone https://github.com/username/systeminfo-monitoring.git
-   cd systeminfo-monitoring
+   git clone https://github.com/ArenaldyP/Pastebin-InfoStealer.git
    ```
 2. **Install Dependencies**:
    ```sh
    pip install -r requirements.txt
    ```
-3. **Jalankan Script**:
-   ```sh
-   python SystemInfo.py
-   ```
 
 ## 🔧 Konfigurasi Pastebin API
 Untuk mengirim data ke Pastebin, masukkan API Key dan kredensial akun di dalam script:
 ```python
-username = "your_username"
-password = "your_password"
+username = "Username"
+password = "Password"
 api_dev_key = "your_pastebin_api_key"
 ```
 
@@ -47,6 +43,4 @@ Script akan menghasilkan output berupa file log yang berisi informasi sistem dan
 ## 🛡️ Legal Disclaimer
 Script ini dibuat untuk tujuan edukasi dan penelitian keamanan siber. **Dilarang digunakan untuk aktivitas ilegal!**
 
-## 📜 Lisensi
-MIT License. Silakan gunakan, modifikasi, dan kontribusi kembali!
 
