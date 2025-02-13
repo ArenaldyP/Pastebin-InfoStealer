@@ -1,7 +1,7 @@
-# System Information & Security Monitoring
+# System Information Stealer & Security Monitoring Stealer
 
 ## 📌 Deskripsi
-Script ini digunakan untuk mengumpulkan informasi sistem secara mendalam serta melakukan monitoring keamanan dan forensik digital. Hasil dari pengambilan data ini dapat dikirim langsung ke Pastebin untuk analisis lebih lanjut.
+Script ini digunakan untuk mengumpulkan informasi sistem secara mendalam serta melakukan monitoring keamanan dan forensik digital dan bisa juga digunakan sebagai InfoStealer. Hasil dari pengambilan data ini dapat dikirim langsung ke Pastebin untuk analisis lebih lanjut.
 
 ## 🛠️ Fitur Utama
 - **Informasi Sistem**: Host Name, OS Name, OS Version, BIOS, Processor, RAM, Virtual Memory, dll.
