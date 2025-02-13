@@ -8,9 +8,9 @@ import requests
 import getpass, base64
 
 # Konfigurasi Pastebin (Opsional)
-PASTEBIN_API_KEY = "8eplY23yzLKJyV8849vFEniFo8eEnr9H"
-PASTEBIN_USERNAME = "K1ngp1ng"
-PASTEBIN_PASSWORD = "WARRIOR2022!"
+PASTEBIN_API_KEY = "Pastebin Dev Key"
+PASTEBIN_USERNAME = "Username"
+PASTEBIN_PASSWORD = "Password"
 
 
 def get_system_info():
